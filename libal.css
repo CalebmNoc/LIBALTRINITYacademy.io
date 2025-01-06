@@ -1,0 +1,83 @@
+html,body{
+    margin:0;
+    color:rgba(243, 10, 10, 0.788);
+    
+}
+.back{
+    background-color:rgba(54, 153, 47, 0.671);
+    background-image:url(build.jpeg);
+    background-blend-mode:multiply;
+    background-size:contain
+}
+
+
+.navv{
+    background-color:rgba(35, 204, 100, 0.849);
+    
+    color:rgba(240, 128, 24, 0.89);
+    text-align:right;
+}
+
+.navv li{
+    display:inline;
+    padding:0 3%;
+    font-weight:bold;
+}
+
+.navv a{
+    text-decoration:none;
+    padding: .4em;    
+}
+
+
+a{
+    color:rgba(165, 108, 2, 0.795);
+}
+
+.divv{
+    font-weight:bold;
+    font-family:verdana;
+    text-decoration:none;
+    color:rgb(23, 180, 23);
+}
+
+
+fieldset{
+    border:0;
+}
+
+.two{
+    background:orange;
+}
+
+
+
+.title{
+    background:rgba(230, 222, 222, 0.562);
+}
+.first{
+    font-size :20px;
+    font-family:serif;
+}
+
+
+.last .set{
+    font-family:sans-serif;
+    display:inline;
+}
+
+  
+
+.Designer{
+    text-align:center;
+    font-family:sans-serif;
+}
+
+
+
+footer{
+    padding-top:50%;
+    font-size :20px;
+   
+
+}

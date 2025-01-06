@@ -1,0 +1,44 @@
+body{
+    
+    color:rgba(255, 255, 255, 0.938);
+
+}
+.back{
+    background-color:rgba(54, 153, 47, 0.671);
+    background-image:url(custom.jfif);
+    background-blend-mode:multiply;
+    background-size:cover;
+}
+
+.contact{
+    text-align:center;
+    background-color:rgba(65, 34, 202, 0.685);
+    color:rgba(255, 255, 255, 0.836);
+}
+
+.navv{
+    background-color:rgba(35, 204, 100, 0.849);
+    
+    color:rgba(240, 128, 24, 0.89);
+    text-align:right;
+}
+
+.navv li{
+    display:inline;
+    padding:0 3%;
+    font-weight:bold;
+}
+
+.navv a{
+    text-decoration:none;
+    padding: .4em;    
+}
+
+
+a{
+    color:rgba(165, 108, 2, 0.795);
+}
+
+.title{
+    background:rgba(230, 222, 222, 0.562);
+}
